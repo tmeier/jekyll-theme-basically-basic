@@ -43,6 +43,8 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-tagging
+  - jekyll-tagging-related-posts
 feed:
   path: atom.xml
 
